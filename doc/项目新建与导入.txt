@@ -1,0 +1,41 @@
+⚫●◽★
+——————————————————————
+⚫新建项目
+https://www.bilibili.com/video/BV1PY411e7J6?p=59
+●步骤
+◽NEW-填写各项
+name：必须以下划线或英文开头
+location：建议先创建一个空文件夹，用于放入项目
+JDK
+◽src中新建类class，main方法，sout输出方法
+
+⚫工程与模块
+https://www.bilibili.com/video/BV1PY411e7J6?p=61
+
+●说明
+项目-模块-包-类
+默认存在一个项目同名的模块
+file-project structure查看项目架构
+
+●新建模块-包-类
+◽右键级别（项目-模块-包），新建次级别（模块-包-类）
+◽包名一般为开发公司域名的倒写【com.wx.package1】
+◽src中编写代码
+
+●设置
+project structure-module指定小范围的JDK
+
+●删除模块
+右键-remove移除出项目，然后右键-delete移除本地文件
+
+●跨项目复制模块
+新项目新建模块-旧项目src文件复制到新项目src
+
+●更改模块字符集
+setting-editor-file encodings-+模块目录-指定小范围的编码规则
+
+
+
+
+
+
